@@ -1,8 +1,0 @@
-[
-{
-  "directory": "C:/Users/ykiha/OneDrive/ドキュメント/Project/Raytracing/build",
-  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\Raytracing.dir\\main.cpp.obj -c C:\\Users\\ykiha\\OneDrive\\ドキュメント\\Project\\Raytracing\\main.cpp",
-  "file": "C:/Users/ykiha/OneDrive/ドキュメント/Project/Raytracing/main.cpp",
-  "output": "CMakeFiles/Raytracing.dir/main.cpp.obj"
-}
-]
